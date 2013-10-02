@@ -15,7 +15,7 @@ About this class
 Detailed description
 ---------
 
-This package .
+This package is a collection of functions related to array manipulation.
 
 Basic usage
 ----------
